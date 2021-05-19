@@ -1,14 +1,14 @@
 # Article.RDPLibrary.Python.ZeroCouponCurves
 Exploring RDP Instrument Pricing Analytics API for Zero Coupon Curves
 
-The example uses the config.cfg which will need to be populated with your credentials 
-e.g. for Refinitiv Data Platform session:
+The example uses the config.cfg which will need to be populated with your credentials   
+e.g. for Refinitiv Data Platform session:  
 **[platform]**  
 **app_key = 0abcdd13bf27478987d1c75f2c5fd8fc469123b2**  
 **user = GE-A-01234567-8-9101**  
 **password = thisisMyDummyPassword12345#**  
-
-OR for Desktop Session (Eikon or Workspace)
+   
+OR for Desktop Session (Eikon or Workspace)   
 **[desktop]**  
 **app_key = 0abcdd13bf27478987d1c75f2c5fd8fc469123b2**  
 
