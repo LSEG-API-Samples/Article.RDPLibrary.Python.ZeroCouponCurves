@@ -1,5 +1,5 @@
 # Article.RDPLibrary.Python.ZeroCouponCurves
-Exploring RDP Instrument Pricing Analytics API for Zero Coupon Curves
+Exploring RDP **Instrument Pricing Analytics** API for **Zero Coupon Curves**
 
 The example uses the config.cfg which will need to be populated with your credentials   
 e.g. for Refinitiv Data Platform session:  
